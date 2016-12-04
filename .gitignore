@@ -4,6 +4,8 @@ Assets/*
 !Assets/Scripts/
 !Assets/Shaders/
 
+*.shader.meta
+
 Library
 ProjectSettings
 Temp
