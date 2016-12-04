@@ -1,0 +1,12 @@
+!Assets/
+
+Assets/*
+!Assets/Scripts/
+!Assets/Shaders/
+
+Library
+ProjectSettings
+Temp
+
+*.csproj
+*.sln
